@@ -1,0 +1,6 @@
+streamlit
+plotly
+numpy
+google-genai
+reportlab
+kaleido==0.2.1
