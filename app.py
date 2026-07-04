@@ -1,6 +1,6 @@
 """
 pH Variation During Titration — Interactive Simulation Dashboard
-Chemistry PBL Project
+Python PBL Project
 
 Team:
   1. Likith Bharani R        [1RV25CH015]
@@ -168,7 +168,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>🧪 pH Variation During Titration — Simulator</h1>
-    <p>Interactive acid–base titration curve generator | Chemistry PBL</p>
+    <p>Interactive acid–base titration curve generator | Python PBL</p>
     <div class="team-box">
         <b>Team:</b> Likith Bharani R (1RV25CH015) &nbsp;|&nbsp;
         Yashaswini Pishe (1RV25CH043) &nbsp;|&nbsp;
